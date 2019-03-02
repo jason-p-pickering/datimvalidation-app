@@ -1,0 +1,22 @@
+{
+    "version": "0.1",
+    "name": "Validation",
+    "description": "Validation",
+    "launch_path": "index.html",
+    "appType": "APP",
+    "icons": {
+        "16": "images/icons/validate-16.png",
+        "48": "images/icons/validate-48.png",
+        "128": "images/icons/validate-128.png"
+    },
+    "developer": {
+        "name": "Jason Pickering",
+        "url": "http://www.datim.org"
+    },
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "*"
+        }
+    }
+}
